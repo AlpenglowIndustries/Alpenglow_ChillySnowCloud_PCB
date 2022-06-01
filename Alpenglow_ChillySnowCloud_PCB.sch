@@ -4,12 +4,12 @@ EELAYER END
 $Descr A 11000 8500
 encoding utf-8
 Sheet 1 1
-Title "Snowing Cloud"
+Title "Chilly Snow Cloud"
 Date "2022-03-16"
 Rev "A"
 Comp ""
 Comment1 ""
-Comment2 "SC-01000"
+Comment2 "CSC-0100"
 Comment3 "WRIGHT"
 Comment4 ""
 $EndDescr
